@@ -1,2 +1,4 @@
-# GPI2 - Íñigo Domínguez Jalle.
-Repositorio git para la asignatura Gestión de Proyectos Informáticos II.
+# Ejercicio 2 - Infraestructura.
+Aquí se presentan el trabajo realizado para el ejercicio dos llamado "Infraestructura"
+
+Íñigo Domínguez Jalle
